@@ -1,6 +1,6 @@
 # Sourcebans-TF2-Theme
 
-This theme is compatible with latest dev of Sourcebans++ webpannel plugin
+This theme is compatible with latest dev build version of Sourcebans++ webpannel plugin
 
 
 # How to install
